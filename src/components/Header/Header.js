@@ -15,6 +15,7 @@ const Header = () => {
                 {
                     user.email ?
                     <>
+                        <span style={{color: 'white'}}><i>{user.displayName}</i> </span>
                         <button onClick={LogOut}>Log Out</button>
                     </> :
                     <>

@@ -1,4 +1,4 @@
-## Live Site Link: https://gifted-yonath-7ccd93.netlify.app/
+## Live Site Link: 
 
 - # Shop.js
 ```
