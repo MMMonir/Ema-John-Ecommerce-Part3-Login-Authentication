@@ -1,0 +1,22 @@
+.shipping-form{
+    margin: 30px 10px;
+    margin: 0 auto;
+    width: 30%;
+    text-align: left;
+}
+.shipping-form input{
+    display: block;
+    width: 100%;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.worning{
+    margin-top: -50px;
+}
+.shipping-form #btn{
+    width: 100px;
+}
+.shipping-form #btn:hover{
+    cursor: pointer;
+}
